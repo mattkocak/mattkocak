@@ -11,6 +11,10 @@ I'm Matt Kocak, a software developer living in Skåne, Sweden. I have experience
 - [Java Spring Forum](https://github.com/mattkocak/java-spring-forum) - a forum developed with a Vue.js, Java Spring, & MySQL tech stack. The focus is on a Java Spring backend with appropriate CRUD operations and permissions
 - [Java Spring Dropbox](https://github.com/mattkocak/java-spring-dropbox) - simple RESTful APIs that are handled by a Java Spring application to provide a Dropbox-like service
 
+### Certifications :trophy:
+- Microsoft Certified: Azure Data Engineer Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
 ### Links :satellite:
 - [LinkedIn](https://www.linkedin.com/in/matt-kocak/)
 - [Stack Overflow](https://stackoverflow.com/users/17884414/matt-kocak)
