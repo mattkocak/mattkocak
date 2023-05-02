@@ -1,6 +1,6 @@
 ### Hello :wave:
 
-I'm Matt Kocak, a software developer living in Skåne, Sweden. I have experience in full-stack web development and business intelligence. Please feel free to contact me about any collaboration ideas. I'm always looking to broaden my horizons!
+I'm Matt Kocak, a software developer living in Skåne, Sweden. I have experience in data engineering and full-stack development in cloud environments. Please feel free to contact me about any collaboration ideas. I'm always looking to broaden my horizons!
 
 ### Projects :notebook:
 #### Personal
