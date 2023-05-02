@@ -14,6 +14,7 @@ I'm Matt Kocak, a software developer living in Skåne, Sweden. I have experience
 ### Certifications :trophy:
 - Microsoft Certified: Azure Data Engineer Associate
 - Microsoft Certified: Power BI Data Analyst Associate
+- Google Cloud Certified: Professional Data Engineer
 
 ### Links :satellite:
 - [LinkedIn](https://www.linkedin.com/in/matt-kocak/)
